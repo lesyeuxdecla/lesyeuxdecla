@@ -12,7 +12,7 @@
 
 <div align="center"> 
 <a href="https://instagram.com/lesyeuxdecla?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6a040f?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.claricesena80@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-edf2f4?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+<a href = "mailto:claricesena80@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-edf2f4?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
  </div>
  
  ### estudando no momento:
