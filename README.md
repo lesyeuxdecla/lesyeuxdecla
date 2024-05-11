@@ -10,7 +10,7 @@
 <div align="center"> 
 <a href="https://instagram.com/lesyeuxdecla?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6a040f?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:claricesena80@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-edf2f4?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/clarice-sena-354469309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/clarice-pereira-354469309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
  
 <hr>
