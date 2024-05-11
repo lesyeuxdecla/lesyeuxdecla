@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a040f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=oi,+meu+nome+é+Clarice;tenho+18+anos;sou+estudante+do+senai+e+estou+aprimorando+minhas+habilidades;seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6a040f&size=35&center=true&vCenter=true&width=1000&lines=oi,+meu+nome+é+Clarice;tenho+18+anos;atualmente+estou+aprimorando+minhas;habilidades+na+programação;seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
 
@@ -16,7 +16,8 @@
 <a href = "https://www.linkedin.com/in/clarice-sena-354469309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
  
- 
+
+
  ### current skills:
 
  
@@ -25,6 +26,7 @@
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+</div>
  
  ### studying at the moment:
  
@@ -34,6 +36,7 @@
 <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a040f&height=120&section=footer"/>
